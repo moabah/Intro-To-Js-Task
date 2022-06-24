@@ -1,0 +1,1 @@
+alert('Name: Adedamola Busari, Height: 165cm, Country: Nigeria')
